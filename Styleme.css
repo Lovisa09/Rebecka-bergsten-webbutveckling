@@ -1,0 +1,37 @@
+
+
+#postman {width: 200px;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: #eee;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{text-align: center;}
+
+h1:hover{ color:black;
+    text-shadow: 3px 3px 6px rgb(255, 150, 190); }
+
+    
+
+.låda {text-align: center;
+    margin: 8px auto;
+    padding: 8px;
+    width: 700px;
+    background-color: #eee;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
+#Galatea{text-align: center;
+    margin: 8px auto;
+    padding: 8px;
+    width: 750px;
+    background-color: #eee;
+    border-radius: 10px;
+    font-family: monospace;
+}
+
+body{background-image: url("Bildisar/pink-sky-22.jpg"); }
